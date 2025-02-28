@@ -1,0 +1,33 @@
+{
+  "id": "foundryvtt-mapmaker",
+  "version": "0.0.1",
+  "title": "Map Maker",
+  "description": "Additional tools for creating maps in Foundry VTT.",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "12"
+  },
+  "esmodules": ["module/mapmaker.js"],
+  "styles": ["css/mapmaker.css"],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
+  "authors": [
+    {
+      "id": "Benjamin Menesini",
+      "url": "https://github.com/sayhiben/"
+    }
+  ],
+  "url": "https://github.com/sayhiben/foundryvtt-mapmaker",
+  "manifest": "https://github.com/sayhiben/foundryvtt-mapmaker/releases/download/v0.0.1/module.json",
+  "download": "https://github.com/sayhiben/foundryvtt-mapmaker/releases/download/v0.0.1/mapmaker.zip",
+  "license": "https://github.com/sayhiben/foundryvtt-mapmaker/blob/main/LICENSE",
+  "readme": "https://github.com/sayhiben/foundryvtt-mapmaker/blob/main/README.md",
+  "bugs": "https://github.com/sayhiben/foundryvtt-mapmaker/issues",
+  "changelog": "https://github.com/sayhiben/foundryvtt-mapmaker/releases"
+}
