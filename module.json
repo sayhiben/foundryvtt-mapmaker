@@ -8,7 +8,7 @@
     "verified": "12",
     "maximum": "12"
   },
-  "esmodules": ["module/mapmaker.js"],
+  "esmodules": ["module/mapmaker.mjs"],
   "styles": ["css/mapmaker.css"],
   "languages": [
     {
@@ -19,7 +19,7 @@
   ],
   "authors": [
     {
-      "id": "Benjamin Menesini",
+      "name": "Benjamin Menesini",
       "url": "https://github.com/sayhiben/"
     }
   ],
